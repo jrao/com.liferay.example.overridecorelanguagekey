@@ -13,7 +13,7 @@ import com.liferay.portal.kernel.language.UTF8Control;
 @Component(
 	immediate = true,
 	property = {
-		"language.id=en_US"
+		"language.id=es_ES"
 	},
 	service = ResourceBundle.class
 )
